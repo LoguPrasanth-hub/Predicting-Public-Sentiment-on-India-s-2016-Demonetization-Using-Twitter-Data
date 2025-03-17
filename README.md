@@ -1,13 +1,13 @@
-PROJECT TITLE:
+# PROJECT TITLE:
 Predicting Public Sentiment on India's 2016 Demonetization Using Twitter Data.
 
-DESCRIPTION:
+# DESCRIPTION:
 This project analyzes public sentiment on India's 2016 demonetization by leveraging Natural Language Processing (NLP) techniques on Twitter data. It extracts positive, negative, and neutral sentiments to understand how the public reacted.
 
-TECHNOLOGIES USED:
+# TECHNOLOGIES USED:
 Python, Pandas, Numpy, TextBlob, Scikit-Learn, TF-IDF, CountVectorizer, Random Forest, Naïve Bayes
 
-PROJECT WORKFLOW:
+# PROJECT WORKFLOW:
 Collected & preprocessed Twitter data (removed RTs, links, stopwords).
 Extracted sentiment polarity using TextBlob.
 Applied TF-IDF & CountVectorizer for feature extraction.
